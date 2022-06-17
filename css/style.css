@@ -260,7 +260,7 @@ body{
 
 .r3{
     position: absolute;
-    width: 1300px;
+    width: 1200px;
     height: 700px;
     left: 15.5%;
     top: 2000px;    
@@ -271,8 +271,8 @@ body{
 
 #logo-ods{
     position: absolute;
-    height: 460px;
-    right: 3%;
+    height: 430px;
+    right: 2%;
     top: 16%;
 }
 
@@ -288,11 +288,11 @@ body{
 
 .texto2{
     position: absolute;
-    width: 730px;
+    width: 670px;
     left: 5%;
     top: 19%;
     font-family: 'Montserrat';
-    font-size: 22px;
+    font-size: 21px;
     line-height: 28px;
     text-indent: 20px;
     color: #FFFFFF;
