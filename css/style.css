@@ -379,6 +379,10 @@ body{
     bottom: 4%;
 }
 
+#icon1:active{
+    transform: scale(0.9);
+}
+
 #icon2{
     position: absolute;
     height: 55px;
@@ -386,11 +390,19 @@ body{
     bottom: 4.5%;
 }
 
+#icon2:active{
+    transform: scale(0.9);
+}
+
 #icon3{
     position: absolute;
     height: 55px;
     left: 32%;
     bottom: 4.5%;
+}
+
+#icon3:active{
+    transform: scale(0.9);
 }
 
 .titulo5{
@@ -417,7 +429,7 @@ body{
 
 .sm{
     position: absolute;
-    right: 28%;
+    left: 56%;
     top: 12%;
     font-family: 'Fraunces';
     font-size: 40px;
@@ -427,7 +439,7 @@ body{
 .links{
     position: absolute;
     height: 174px;
-    left: 59.5%;
+    left: 56%;
     top: 25%;
     font-family: 'Montserrat';
     font-size: 20px;
