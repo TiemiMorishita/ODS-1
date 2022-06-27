@@ -419,7 +419,7 @@ body{
     left: 20%;
     top: 30%;
     font-family: 'Montserrat';
-    font-size: 30px;
+    font-size: 28px;
     line-height: 40px;
     color: #FFFFFF;
 }
@@ -444,11 +444,11 @@ body{
 }
 
 a:link{
-    color: #ffffff;
+    color: #D40C3D;
     text-decoration: none;
 }
 
 a:visited{
-    color: #ffffff;
+    color: #D40C3D;
     text-decoration: none;
 }
