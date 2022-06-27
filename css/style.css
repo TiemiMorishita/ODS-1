@@ -406,9 +406,9 @@ body{
 .titulo5{
     position: absolute;
     left: 20%;
-    top: 10%;
+    top: 12%;
     font-family: 'Fraunces';
-    font-size: 50px;
+    font-size: 40px;
     color: #FFFFFF;
 }
 
@@ -444,11 +444,11 @@ body{
 }
 
 a:link{
-    color: #D40C3D;
+    color: #ffffff;
     text-decoration: none;
 }
 
 a:visited{
-    color: #D40C3D;
+    color: #ffffff;
     text-decoration: none;
 }
