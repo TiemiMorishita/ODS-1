@@ -7,7 +7,7 @@ body{
     height: 4000px;
     left: 0;
     top: 0;
-    position:absolute;
+    position: absolute;
 }
 
 .p{
@@ -19,9 +19,9 @@ body{
 
 .gradiente{
     background-image: linear-gradient(360deg, #1A1A1A 45%, #1a1a1ab1 75%, #1a1a1a6c 95%, #1a1a1a00 100%);
-    width:100%;
-    height:1150px;
-    position:absolute;
+    width: 100%;
+    height: 1150px;
+    position: absolute;
     right: 0;
     top: 156px;
 }
@@ -50,7 +50,7 @@ body{
     position: absolute;
     width: 500px;
     height: 500px;
-    right: 0px;
+    right: 0;
     top: 1431px;
     background: #d40c3e9a;
     filter: blur(250px);
@@ -70,7 +70,7 @@ body{
     position: absolute;
     width: 500px;
     height: 500px;
-    right: 0px;
+    right: 0;
     top: 3064px;
     background: #d40c3e9a;
     filter: blur(250px);
@@ -79,21 +79,21 @@ body{
 #t1{
     position: absolute;
     width: 400px; 
-    left: 0px;
+    left: 0;
     top: 442px;
 }
 
 #t2{
     position: absolute;
     width: 200px; 
-    right: 0px;
+    right: 0;
     top: 1380px;
 }
 
 #t3{
     position: absolute;
     width: 175px; 
-    left: 0px;
+    left: 0;
     top: 2040px;
 }
 
@@ -106,8 +106,8 @@ body{
 
 .rodape{
     position: absolute;
-    left: 0%;
-    right: 0%;
+    left: 0;
+    right: 0;
     width: 100%;
     height: 520px;
     bottom: 0;
@@ -162,7 +162,6 @@ body{
     left: 32%;
     top: 18px;
     font-family: 'Montserrat';
-    font-weight: 400;
     font-size: 25px;
     line-height: 30px;
     text-align: center;
@@ -304,7 +303,6 @@ body{
     top: 2780px;
     font-family: 'Fraunces';
     font-style: normal;
-    font-weight: 400;
     font-size: 65px;
     text-align: center;
     color: #FFFFFF;
@@ -421,7 +419,6 @@ body{
     left: 20%;
     top: 30%;
     font-family: 'Montserrat';
-    font-weight: 400;
     font-size: 30px;
     line-height: 40px;
     color: #FFFFFF;
